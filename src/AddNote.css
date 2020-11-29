@@ -1,0 +1,10 @@
+.AddNote {
+  color: #dedede;
+  position: absolute;
+  top: 100px;
+  left: 635px;
+}
+
+.AddNote h2 {
+  margin-left: 16px;
+}

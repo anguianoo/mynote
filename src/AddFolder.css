@@ -1,0 +1,14 @@
+.AddFolder {
+  color: #dedede;
+  position: absolute;
+  top: 100px;
+  left: 635px;
+}
+
+.AddFolder h2 {
+  margin-left: 16px;
+}
+
+.buttons {
+  display: inline-block;
+}
